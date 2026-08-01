@@ -33,9 +33,6 @@ The Kaggle House Prices dataset: 1,460 houses with 80+ features (lot size, quali
 
 ## 📈 Results
 
-## 🏆 Kaggle Submission
-This project was submitted to the official Kaggle "House Prices - Advanced Regression Techniques" competition leaderboard
-
 | Metric | Score |
 |---|---|
 | 🌲 Random Forest — R² | ~0.83 |
@@ -48,6 +45,9 @@ This project was submitted to the official Kaggle "House Prices - Advanced Regre
 - 🌳 Tree-based models (Random Forest, XGBoost) don't need feature scaling (`StandardScaler`) — unlike distance-based models like Logistic Regression, they split on per-feature thresholds, which are scale-invariant.
 - 📉 The log transformation of the target was the single biggest improvement in this project — a common technique for right-skewed regression targets.
 - 💡 A single prediction can look far off from the actual price (some houses are just harder to predict), which is why **MAE across the whole test set** is a much more reliable performance measure than eyeballing individual predictions.
+
+## 🏆 Kaggle Submission
+This project was submitted to the official Kaggle "House Prices - Advanced Regression Techniques" competition leaderboard
 
 ---
 
