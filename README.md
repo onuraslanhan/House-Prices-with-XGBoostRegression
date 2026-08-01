@@ -47,7 +47,7 @@ The Kaggle House Prices dataset: 1,460 houses with 80+ features (lot size, quali
 - 💡 A single prediction can look far off from the actual price (some houses are just harder to predict), which is why **MAE across the whole test set** is a much more reliable performance measure than eyeballing individual predictions.
 
 ## 🏆 Kaggle Submission
-This project was submitted to the official Kaggle "House Prices - Advanced Regression Techniques" competition leaderboard
+This project was submitted to the official Kaggle "House Prices - Advanced Regression Techniques" competition leaderboard.
 
 ---
 
