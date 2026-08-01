@@ -33,6 +33,9 @@ The Kaggle House Prices dataset: 1,460 houses with 80+ features (lot size, quali
 
 ## 📈 Results
 
+## 🏆 Kaggle Submission
+This project was submitted to the official Kaggle "House Prices - Advanced Regression Techniques" competition leaderboard
+
 | Metric | Score |
 |---|---|
 | 🌲 Random Forest — R² | ~0.83 |
