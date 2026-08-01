@@ -35,7 +35,8 @@ The Kaggle House Prices dataset: 1,460 houses with 80+ features (lot size, quali
 
 | Metric | Score |
 |---|---|
-| 🌲 Random Forest — R² | ~0.79 |
+| 🌲 Random Forest — R² | ~0.83 |
+| 💵 Mean Absolute Error | ~$16,550 |
 | ⚡ XGBoost (tuned + log target) — R² | ~0.85 |
 | 💵 Mean Absolute Error | ~$14,800 |
 
